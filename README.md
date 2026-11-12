@@ -1,11 +1,11 @@
-# Streamer crew link
+# Streamer crew link — 文書の移転
 
-Among Us と Discord の非公式配信補助ツール。提供者：Hirota777。
+2026年11月12日、v1.00の公開に伴い、文書とサポートを[本体リポジトリ](https://github.com/Hirota777/streamer-crew-link)へ統合しました。
 
-- [利用規約](TERMS.md)
-- [プライバシーポリシー](PRIVACY.md)
-- [問い合わせ・削除方法の相談](https://github.com/Hirota777/streamer-crew-link-docs/issues)
+- [利用規約](https://github.com/Hirota777/streamer-crew-link/blob/main/TERMS.md)
+- [プライバシーポリシー](https://github.com/Hirota777/streamer-crew-link/blob/main/PRIVACY.md)
+- [ライセンス・素材等の文書一覧](https://github.com/Hirota777/streamer-crew-link/blob/main/POLICIES.md)
+- [ダウンロード](https://github.com/Hirota777/streamer-crew-link/releases/latest)
+- [問い合わせ](https://github.com/Hirota777/streamer-crew-link/issues)
 
-このリポジトリは公開文書とサポート専用です。アプリのソースコードや利用者のデータ、認証情報は含みません。
-
-公開の問い合わせにトークン・パスワード・個人情報を記載しないでください。
+旧版アプリからのリンクが途切れないよう、このリポジトリには移転案内を残しています。新しい文書は本体リポジトリを正本とします。トークン・パスワード・個人情報は公開投稿しないでください。
